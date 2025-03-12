@@ -1,0 +1,50 @@
+
+.element {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 10px;
+	fill: black;
+	font-weight: bold;
+	dominant-baseline: middle;
+	text-anchor: middle;
+}
+
+.element-charge {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 4px;
+	fill: black;
+	dominant-baseline: hanging;
+	text-anchor: end;
+}
+
+.ligation {
+	stroke-width: 1px;
+	stroke: black;
+}
+
+.element-H {
+	fill: #bbbbbb;
+}
+
+.element-S {
+	fill: #f7cd29;
+}
+
+.element-Cl {
+	fill: #21d122;
+}
+
+.element-F {
+	fill: #aed482;
+}
+
+.element-N {
+	fill: #7878fa;
+}
+
+.element-O {
+	fill: #eb3738;
+}
+
+.element-C {
+	fill: #000000;
+}
